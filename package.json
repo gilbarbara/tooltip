@@ -1,0 +1,21 @@
+{
+  "name": "@gilbarbara/tooltip",
+  "version": "0.0.0",
+  "description": "Simple customizable tooltips",
+  "author": "Gil Barbara <gilbarbara@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gilbarbara/tooltip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gilbarbara/tooltip/issues"
+  },
+  "homepage": "https://github.com/gilbarbara/tooltip#readme",
+  "sideEffects": false,
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "tooltip",
+    "typescript"
+  ]
+}
